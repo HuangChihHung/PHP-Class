@@ -5,7 +5,7 @@
     <title>Hello | PHP</title>
 </head>
 <body>
-
+  
 <?php
 $begin = 16;
 $end = 22;
