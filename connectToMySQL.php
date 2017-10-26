@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>連接到 mysql | PHP</title>
-</head>
+</head> 
 <body>
     <h1>連接到 mysql</h1>
     <?php
