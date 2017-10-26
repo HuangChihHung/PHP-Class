@@ -6,8 +6,14 @@
 //4. 可以取得物種名稱
 //5. 可以從外部得到食物
 
+
+
+
+
 class Animal
 {
+
+
     private $animalType ="default animal Type";
     protected $position;
 
