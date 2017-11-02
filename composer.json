@@ -1,0 +1,13 @@
+{
+    "name": "chihphp/composer-project",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "HuangChihHung",
+            "email": "pk33386@yahoo.com.tw"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
