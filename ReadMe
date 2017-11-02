@@ -1,0 +1,12 @@
+
+
+
+-安裝 data time 套件,要先切道專案目錄底下
+>composer require nesbot/carbon
+
+
+-初始化套件
+用Composer 初始化建立一個專案,會要你填寫資料
+> vagrant.exe ssh
+> cd Code/Public
+> composer init
